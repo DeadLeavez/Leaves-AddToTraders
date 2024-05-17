@@ -1,5 +1,5 @@
 {
-    "name": "addtotraders",
+    "name": "add_to_traders",
     "version": "1.0.0",
     "main": "src/mod.js",
     "license": "MIT",
